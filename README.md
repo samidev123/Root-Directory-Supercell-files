@@ -1,5 +1,6 @@
 # Supercell .sc files from the /data/data/com.supercell.brawlstars and /data/data/com.supercell.squad directories!
 This repository is for some .sc files that cant be found in the normal APK
+**Note: Only some files are not found in the APK. But all files uploaded here are from the /data/data/ directory**
 
 <p align="center">
   <img src="Screenshots/rf.png" alt="Brawl Stars Raw UI Asset Extraction Preview" width="100%">
