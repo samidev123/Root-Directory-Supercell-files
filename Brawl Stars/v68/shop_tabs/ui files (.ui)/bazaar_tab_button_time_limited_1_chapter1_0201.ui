@@ -1,0 +1,11 @@
+id = "bazaar_tab_button_time_limited_1"
+priority = 6
+
+sc_file_source = "ChronosScFile"
+sc_file = "shop_tab_chapter1_0201.sc"
+export_name = "button_navi_shop"
+
+copy_configs = [ "bazaar_tab_button_default" ]
+
+[bindings]
+me = { path="" }
