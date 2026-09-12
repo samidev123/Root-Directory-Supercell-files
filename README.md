@@ -1,4 +1,4 @@
-# Supercell .sc files from the /data/data/com.supercell.brawlstars and /data/data/com.supercell.squad directories!
+# Supercell .sc files from root directory!
 This repository is for some .sc files that cant be found in the normal APK\
 **Note: Only some files are not found in the APK. But all files uploaded here are from the /data/data/ directory**
 
